@@ -24,3 +24,18 @@ Everyone is welcome to contribute learning materials. Create a branch, add your 
 ## Goal
 
 Learn together, share knowledge, and grow as developers.
+
+## Software Architecture
+Notes 
+
+## DevOps Engineer
+Notes 
+
+## UI/UX Designer
+Notes
+
+## AI Engineer
+Notes
+
+## QA Engineer
+Notes 
