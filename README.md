@@ -26,16 +26,26 @@ Everyone is welcome to contribute learning materials. Create a branch, add your 
 Learn together, share knowledge, and grow as developers.
 
 ## Software Architecture
-Notes 
+what is software architecture?
+Why Do We Need Software Architecture?
+Planning,Maintainability,Scalability,Security,Performance,Teamwork
+Main Components of Software Architecture?
+Frontend,Backend,Database
+Types of Software Architecture?
+Monolithic Architecture,Layered Architecture,Microservices Architecture,Client–Server Architecture,Event-Driven Architecture,MVC Architecture
+
+
 
 ## DevOps Engineer
-Notes 
+what is DevOps Engineer?
+
 
 ## UI/UX Designer
-Notes
+what is UI/UX Designer?
 
 ## AI Engineer
-Notes
+what is AI Engineer?
+
 
 ## QA Engineer
-Notes 
+what is QA Engineer?
